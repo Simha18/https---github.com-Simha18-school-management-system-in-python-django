@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    background-color: yellow;
+    color: red;
+
+}
+div{
+    border: 1px solid grey;
+    width: 45%;
+    text-align: center;
+    float: left;
+    height: 200px;
+    margin: 20px;
+    background-color: #f1f1f1;
+}
+img{
+    width: 25px;
+    height: 25px;
+}
+h2{
+    text-align: center;
+}
+button{
+    width: 150px;
+    background-color: grey;
+    color: white;
+}
+button:hover{
+    width: 150px;
+    background-color: white;
+    color: grey;
+}
